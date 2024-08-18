@@ -1,3 +1,4 @@
 a quick green fox jumps over a lazy dog
 now try pull command 
 trying to push data from another branch mnr 
+now sending data from global branch mnr 
